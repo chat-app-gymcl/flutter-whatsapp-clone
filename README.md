@@ -1,4 +1,4 @@
-# WhatsApp Clone
+# WhatsApp Clone2
 
 Full Stack Whatsapp Clone with Flutter, Firebase & Riverpod 2.0!
 
@@ -12,6 +12,7 @@ Full Stack Whatsapp Clone with Flutter, Firebase & Riverpod 2.0!
 - Online/Offline Status
 - Seen Message
 - Replying to Messages
+
 - Auto Scroll on New Messages
 
 ## YouTube
